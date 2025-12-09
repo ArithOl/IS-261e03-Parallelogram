@@ -1,1 +1,3 @@
-# IS-261e03-Parallelogram
+# IS-261e03-Parallelogram 
+modificacion.
+Lujano Perez Kevin Yazel
